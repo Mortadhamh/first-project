@@ -1,0 +1,29 @@
+ h1 {
+    color: red;
+ }
+ p {
+   border: 2px solid blue;
+ }
+ title {
+   color: red;
+   text-align: center;
+ }
+
+ #first-title {
+   color: royalblue;
+   text-align: end;
+   text-decoration: underline;
+ }
+
+ a:link {
+  color: green;
+ }
+
+.box {
+  border: 1px solid red;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+}
+
